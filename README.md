@@ -15,7 +15,7 @@ Numerical integration
 - trisum2D.pro : Tetrahedron summation of the volume under a surface.
 
 Miscellaneous
-- cholinver.pro : Computes the inverse of a symmetric positive-definite matrix by Cholesky decomposition.
+- cholinvert.pro : Computes the inverse of a symmetric positive-definite matrix by Cholesky decomposition.
 - derivlsq.pro : Derive a function in the presence of noise.
 - randgenidl.pro : Generate pseudo random numbers uniformly distributed in [0,1]. Compared to the IDL builtin random number generator, it has a better period but is slower.
 - spherbess.pro : Compute the spherical bessel function of order n. Or all orders up to n if keyword /hierarchy is present
